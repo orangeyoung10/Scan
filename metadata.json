@@ -1,6 +1,6 @@
 {
   "name": "ScanBeads",
-  "description": "Free Perler bead QR code generator. Convert URLs & WiFi into 1:1 printable pegboard patterns. Exact bead counts & color codes for Perler, Artkal & Hama.",
+  "description": "Free perler bead qr code generator to create scannable 1:1 fuse bead patterns for Perler, Artkal, and Hama boards. Calculate bead counts and export printable templates.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"

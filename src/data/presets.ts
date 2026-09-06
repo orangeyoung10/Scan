@@ -3,7 +3,7 @@ import { PresetTemplate } from '../types';
 export const PRESET_TEMPLATES: PresetTemplate[] = [
   {
     id: 'wifi_guest_keychain',
-    title: 'Guest Wi-Fi Keychain (访客 WiFi 钥匙扣)',
+    title: 'Guest Wi-Fi Keychain',
     description: 'Hang this on your entryway key rack or coffee table for instant guest connection with zero password typing.',
     category: 'wifi',
     mode: 'wifi',
@@ -19,7 +19,7 @@ export const PRESET_TEMPLATES: PresetTemplate[] = [
   },
   {
     id: 'social_linktree',
-    title: 'Link-in-Bio / Instagram Tag (社交名片吊牌)',
+    title: 'Link-in-Bio / Instagram Tag',
     description: 'Compact personal showcase or portfolio link for conventions, artist alleys, and craft fairs.',
     category: 'social',
     mode: 'url',
@@ -31,7 +31,7 @@ export const PRESET_TEMPLATES: PresetTemplate[] = [
   },
   {
     id: 'music_song_gift',
-    title: 'Retro Song Surprise (音乐分享挂件)',
+    title: 'Retro Song Surprise',
     description: 'Encode a favorite Spotify / YouTube song or anniversary playlist into an 8-bit retro pixel pendant.',
     category: 'music',
     mode: 'url',
@@ -43,7 +43,7 @@ export const PRESET_TEMPLATES: PresetTemplate[] = [
   },
   {
     id: 'pet_emergency_tag',
-    title: 'Pet ID / ICE Emergency Collar (宠物防丢/急救牌)',
+    title: 'Pet ID / ICE Emergency Collar',
     description: 'Direct telephone dialing payload for a pet collar or senior emergency contact pendant.',
     category: 'emergency',
     mode: 'url',
@@ -55,7 +55,7 @@ export const PRESET_TEMPLATES: PresetTemplate[] = [
   },
   {
     id: 'coffee_crypto_tip',
-    title: 'Tip Jar / Coffee Support (小费打赏牌)',
+    title: 'Tip Jar / Coffee Support',
     description: 'Place on your craft desk, food cart, or live-stream background for tip jar or Ko-fi support.',
     category: 'crypto',
     mode: 'url',
@@ -67,7 +67,7 @@ export const PRESET_TEMPLATES: PresetTemplate[] = [
   },
   {
     id: 'secret_love_message',
-    title: 'Secret Message (解密告白与情书)',
+    title: 'Secret Love Message',
     description: 'Surprise your partner or friend with a hidden text message that reveals itself only when scanned by a phone camera.',
     category: 'secret',
     mode: 'url',

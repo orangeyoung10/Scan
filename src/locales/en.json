@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Perler Bead QR Code Generator & 1:1 Patterns - ScanBeads",
-    "description": "Free Perler bead QR code generator. Convert links & WiFi into 1:1 printable pegboard sheets, exact color counts & flat-ironing guides for Hama and Artkal.",
+    "title": "Perler Bead QR Code Generator - 1:1 Pegboard Pattern Maker | ScanBeads",
+    "description": "Free perler bead qr code generator to create scannable 1:1 fuse bead patterns for Perler, Artkal, and Hama boards. Calculate bead counts and export printable templates.",
     "badge_privacy": "100% Client-Side Privacy • Zero Data Uploaded"
   },
   "nav": {
@@ -36,8 +36,8 @@
     "step3_desc": "Follow our signature single-sided flat iron technique. Keep the front holes open, point your phone camera, and scan instantly!"
   },
   "generator": {
-    "title": "Perler Bead QR Generator",
-    "subtitle": "Real-time 5mm bead pegboard preview with live dimension & material calculator",
+    "title": "Perler Bead QR Code Generator",
+    "subtitle": "Free perler bead qr code generator to create scannable 1:1 fuse bead patterns for Perler, Artkal, and Hama boards with real-time bead counts and single-side melt simulation.",
     "tab_url": "URL / Text",
     "tab_wifi": "WiFi Login",
     "tab_vcard": "vCard Contact",

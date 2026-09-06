@@ -1,6 +1,6 @@
-export type SupportedLang = 'en' | 'ja' | 'de' | 'es';
+export type SupportedLang = 'en';
 
-export const SUPPORTED_LANGS: SupportedLang[] = ['en', 'ja', 'de', 'es'];
+export const SUPPORTED_LANGS: SupportedLang[] = ['en'];
 
 export const DEFAULT_LANG: SupportedLang = 'en';
 
